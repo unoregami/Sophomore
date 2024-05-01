@@ -1,0 +1,7 @@
+//Orders
+{
+	"_id": "001",
+	"userID": "001",
+	"totalAmount": 1250,
+	"dateTimeOrdered": "2024-04-31T12:00:00.00Z"
+}
