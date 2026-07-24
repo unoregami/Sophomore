@@ -1,0 +1,15 @@
+//Order Item
+{
+	"_id": "0001",
+	"orderID": "001",
+	"productID": "00001",
+	"quantity": 5,
+	"price": 1000
+}
+{
+	"_id": "0002",
+	"orderID": "001",
+	"productID": "00002",
+	"quantity": 5,
+	"price": 250
+}
