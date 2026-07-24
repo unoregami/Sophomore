@@ -1,0 +1,42 @@
+places = ["Tokyo", "Belgium", "Paris", "London"]
+print(places[0])
+print(places[2])
+print(len(places))
+for place in places:
+	print(place)
+places[1] = "Egypt"
+print(places[1])
+
+array = []
+array.append("Uno")
+print(array)
+array.append("Dos")
+print(array[1])
+array.append("Tres")
+print(array)
+array1 = []
+array1.append("Kwatro")
+print(array1)
+array1.append("Singko")
+print(array1)
+removedItem = array1.pop()
+print(removedItem)
+print(array1)
+places.pop(0)
+print(places)
+removeItem_shift = places.pop(0)
+print(places)
+print(removeItem_shift)
+places.insert(0, "Rizal Park")
+places.insert(2, "Quezon City")
+print(places)
+
+print("\n--------------------------MINI ACTIVITY--------------------------")
+print(f"Initial places: \n{places}")
+places.pop(0)
+print(f"\nRemove the first place: \n{places}")
+places.pop(0)
+print(f"\nRemove another first place: \n{places}")
+places.insert(1, "Binondo")
+places.insert(4, "GMA")
+print(f"\nInsert new places in Index 1, and Index 4: \n{places}")
