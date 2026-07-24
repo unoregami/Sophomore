@@ -1,0 +1,17 @@
+// json
+{
+	"_id": "101",
+	"name": "Juan",
+	"lastName": "Dela Cruz",
+	"email": "jdelacruz@gmail.com",
+	"password": "pass@dlsud01",
+	"isAdmin": false,
+	"mobileNumber": "09464637540",
+	"datetimeRegistered": "2020-03-15T15:00:00.00Z"
+}
+
+/* Mini-Activity
+	Add atleast two users one is admin user and the other one is customer.
+
+	Screenshot your code-based and paste in our discussion in SB lecture
+*/
