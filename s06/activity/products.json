@@ -1,0 +1,15 @@
+//Products
+{
+	"_id": "00001",
+	"name": "Burger",
+	"description": "Two bread with lettuce, beef patty, tomato, and ranch dressing in between.",
+	"price": 100,
+	"isActive": true
+}
+{
+	"_id": "00002",
+	"name": "Iced Tea",
+	"description": "Green leaf tea with ice and syrup.",
+	"price": 50,
+	"isActive": true
+}
