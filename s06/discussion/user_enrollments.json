@@ -1,0 +1,46 @@
+{
+	"_id": "1100",
+	"user-id": "101",
+	"course_id": "0001",
+	"datetimeEnrolled": "2020-03-25T15:00:00.00Z"
+}
+
+/*
+	Mini-Activity
+		Use the user_enrollments and create a many-to-many relationship of your added users and added courses.
+*/
+
+/*
+	Main Activity
+		Create an activity folder to store all the main activity solutions and code-based. Using the given of entities and attributes, create the ERD that will show its many-to-many relationship
+
+		- Users
+			- First Name
+			- Last Name
+			- Email
+			- Password
+			- Is Admin?
+			- Mobile Number
+
+		- Orders
+			- user ID
+			- Total Amount
+			- Data/Time Ordered
+
+		- Order Item
+			- Order ID
+			- Product ID
+			- Quantity
+			- Price
+
+		- Products
+			- Name
+			- Description
+			- Price
+			- Is Active?
+			
+
+		- Translate this ERD diagram into a json format data.
+
+		Screenshot the diagram and the code-based and submit the images in our SB laboratory Link.
+*/

@@ -1,0 +1,30 @@
+Database
+	- an organized collection of information or data
+		- it refers to information stored in a computer systems
+		-- example:
+			Libray (which is a database of books)
+	- data
+		- is raw and does not carry any specific meaning
+	- information
+		- is a group of organized data that contains logical meaning
+Dewey Decimal System
+	- it allows a librarian to organize the content of the library based on the division of all knowledge there is.
+
+ERD 
+	- Entity Relation Diagram
+		- blueprint that visually shows the relationship of different pieces of information of different pieces of information that are connected
+		- a diagram used to describe the structure of the database design. It aims to show what attributes (fields) and entity (collection) has. It show the relationship of attributes between entities.
+
+Relationships
+	- one-to-one
+		- A person can only have one employee on a given
+	- one-to-many
+		- A person can have one or more email address
+	- many-to-many
+		- A book can be written by multiple authors and an author can write multiple books
+
+- users
+- courses
+
+Associative entity
+	- is the table that associates two (or more) other tables in a many-to-many relationship 

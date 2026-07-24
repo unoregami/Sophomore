@@ -1,0 +1,16 @@
+{
+	"_id": "0001",
+	"name": "Full Stack Web Dev in JavaScript",
+	"description": "Learn how to do web dev using JavaScript",
+	"price": 3000,
+	"isActive": true,
+	"datetimeCreate": "2020-03-10T15:00:00.00Z"
+}
+
+/*
+	Mini-Activity
+		Add two more courses in a json format data in courses.json
+
+		Screenshot your code-based and paste it in our SB lecture link.
+
+*/

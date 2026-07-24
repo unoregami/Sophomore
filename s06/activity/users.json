@@ -1,0 +1,19 @@
+//Users
+{
+	"_id": "01",
+	"firstName": "Uno",
+	"lastName": "Esparas",
+	"email": "adolfoesparas@gmail.com",
+	"password": "unodostres",
+	"isAdmin": true,
+	"mobileNumber": "09761856114"
+}
+{
+	"_id": "002",
+	"firstName": "Ash",
+	"lastName": "Guacamole",
+	"email": "tacosandshrimp@gmail.com",
+	"password": "ayayayayay",
+	"isAdmin": false,
+	"mobileNumber": "09060213043"
+}
